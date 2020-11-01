@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 4b69665196adc53448acbb62530c5008
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -105335482446686345
+    second: PC Computer - Ittle Dew - Jenny Rich Green_0
+  - first:
+      213: 4616777750896866456
+    second: PC Computer - Ittle Dew - Jenny Rich Green_1
+  - first:
+      213: 282628513294953413
+    second: PC Computer - Ittle Dew - Jenny Rich Green_2
+  - first:
+      213: 953600999833392566
+    second: PC Computer - Ittle Dew - Jenny Rich Green_3
+  - first:
+      213: 4633400938676195636
+    second: PC Computer - Ittle Dew - Jenny Rich Green_4
+  - first:
+      213: 7120107752299543114
+    second: PC Computer - Ittle Dew - Jenny Rich Green_5
+  - first:
+      213: 8330153573044918109
+    second: PC Computer - Ittle Dew - Jenny Rich Green_6
+  - first:
+      213: -1226731029825513590
+    second: PC Computer - Ittle Dew - Jenny Rich Green_7
+  - first:
+      213: -1582987319009817899
+    second: PC Computer - Ittle Dew - Jenny Rich Green_8
+  - first:
+      213: 3116030040539339141
+    second: PC Computer - Ittle Dew - Jenny Rich Green_9
+  - first:
+      213: -634975209446424232
+    second: PC Computer - Ittle Dew - Jenny Rich Green_10
+  - first:
+      213: 8537733459419562951
+    second: PC Computer - Ittle Dew - Jenny Rich Green_11
+  - first:
+      213: -7884458416694631959
+    second: PC Computer - Ittle Dew - Jenny Rich Green_12
+  - first:
+      213: 8807861012424078864
+    second: PC Computer - Ittle Dew - Jenny Rich Green_13
+  - first:
+      213: 2157006556167462230
+    second: PC Computer - Ittle Dew - Jenny Rich Green_14
+  - first:
+      213: -1630624919667238472
+    second: PC Computer - Ittle Dew - Jenny Rich Green_15
+  - first:
+      213: 5318209875312323349
+    second: PC Computer - Ittle Dew - Jenny Rich Green_16
+  - first:
+      213: 7952239492220534695
+    second: PC Computer - Ittle Dew - Jenny Rich Green_17
+  - first:
+      213: -4074259985688741893
+    second: PC Computer - Ittle Dew - Jenny Rich Green_18
+  - first:
+      213: 2188355088503862954
+    second: PC Computer - Ittle Dew - Jenny Rich Green_19
+  - first:
+      213: 8199284999684855471
+    second: PC Computer - Ittle Dew - Jenny Rich Green_20
+  - first:
+      213: 8518914578968691703
+    second: PC Computer - Ittle Dew - Jenny Rich Green_21
+  - first:
+      213: 8932668298129884343
+    second: PC Computer - Ittle Dew - Jenny Rich Green_22
+  - first:
+      213: -8809300607403800737
+    second: PC Computer - Ittle Dew - Jenny Rich Green_23
+  - first:
+      213: -8988564663606427906
+    second: PC Computer - Ittle Dew - Jenny Rich Green_24
+  - first:
+      213: 46681345907097476
+    second: PC Computer - Ittle Dew - Jenny Rich Green_25
+  - first:
+      213: 3796630671409341224
+    second: PC Computer - Ittle Dew - Jenny Rich Green_26
+  - first:
+      213: 6735987419028695128
+    second: PC Computer - Ittle Dew - Jenny Rich Green_27
+  - first:
+      213: -5181137489159299207
+    second: PC Computer - Ittle Dew - Jenny Rich Green_28
+  - first:
+      213: -7683253614675004719
+    second: PC Computer - Ittle Dew - Jenny Rich Green_29
+  - first:
+      213: 3592427682333022119
+    second: PC Computer - Ittle Dew - Jenny Rich Green_30
+  - first:
+      213: 5390316758196799120
+    second: PC Computer - Ittle Dew - Jenny Rich Green_31
+  - first:
+      213: -7711607048384187308
+    second: PC Computer - Ittle Dew - Jenny Rich Green_32
+  - first:
+      213: -1383955724628712787
+    second: PC Computer - Ittle Dew - Jenny Rich Green_33
+  - first:
+      213: -7476567043444157556
+    second: PC Computer - Ittle Dew - Jenny Rich Green_34
+  - first:
+      213: -4454324904865167716
+    second: PC Computer - Ittle Dew - Jenny Rich Green_35
+  - first:
+      213: -2750216065363399742
+    second: PC Computer - Ittle Dew - Jenny Rich Green_36
+  - first:
+      213: 7166045158243428999
+    second: PC Computer - Ittle Dew - Jenny Rich Green_37
+  - first:
+      213: 3973037777797479225
+    second: PC Computer - Ittle Dew - Jenny Rich Green_38
+  - first:
+      213: -3118742953547528711
+    second: PC Computer - Ittle Dew - Jenny Rich Green_39
+  - first:
+      213: 3199882095594479601
+    second: PC Computer - Ittle Dew - Jenny Rich Green_40
+  - first:
+      213: -3536813881932828872
+    second: PC Computer - Ittle Dew - Jenny Rich Green_41
+  - first:
+      213: -9002448989324223934
+    second: PC Computer - Ittle Dew - Jenny Rich Green_42
+  - first:
+      213: 11643056060183812
+    second: PC Computer - Ittle Dew - Jenny Rich Green_43
+  - first:
+      213: 7599696313780453571
+    second: PC Computer - Ittle Dew - Jenny Rich Green_44
+  - first:
+      213: 5909230980018005607
+    second: PC Computer - Ittle Dew - Jenny Rich Green_45
+  - first:
+      213: -549944907617960666
+    second: PC Computer - Ittle Dew - Jenny Rich Green_46
+  - first:
+      213: 1890157956264728525
+    second: PC Computer - Ittle Dew - Jenny Rich Green_47
+  - first:
+      213: 8375323455515580386
+    second: PC Computer - Ittle Dew - Jenny Rich Green_48
+  - first:
+      213: 4627284366359286758
+    second: PC Computer - Ittle Dew - Jenny Rich Green_49
+  - first:
+      213: 7544854388973258989
+    second: PC Computer - Ittle Dew - Jenny Rich Green_50
+  - first:
+      213: -5328072054353270410
+    second: PC Computer - Ittle Dew - Jenny Rich Green_51
+  - first:
+      213: -8267841930854736976
+    second: PC Computer - Ittle Dew - Jenny Rich Green_52
+  - first:
+      213: 5669486119441525301
+    second: PC Computer - Ittle Dew - Jenny Rich Green_53
+  - first:
+      213: -3214408305828130054
+    second: PC Computer - Ittle Dew - Jenny Rich Green_54
+  - first:
+      213: -809565089776655522
+    second: PC Computer - Ittle Dew - Jenny Rich Green_55
+  - first:
+      213: -3584358434285134633
+    second: PC Computer - Ittle Dew - Jenny Rich Green_56
+  - first:
+      213: 6529182698546202769
+    second: PC Computer - Ittle Dew - Jenny Rich Green_57
+  - first:
+      213: 8193142028683924770
+    second: PC Computer - Ittle Dew - Jenny Rich Green_58
+  - first:
+      213: -1723071425692898632
+    second: PC Computer - Ittle Dew - Jenny Rich Green_59
+  - first:
+      213: -8211656681061901505
+    second: PC Computer - Ittle Dew - Jenny Rich Green_60
+  - first:
+      213: -4766281392579802
+    second: PC Computer - Ittle Dew - Jenny Rich Green_61
+  - first:
+      213: 8729373950453387301
+    second: PC Computer - Ittle Dew - Jenny Rich Green_62
+  - first:
+      213: 2995707705175719990
+    second: PC Computer - Ittle Dew - Jenny Rich Green_63
+  - first:
+      213: -4181089269513696940
+    second: PC Computer - Ittle Dew - Jenny Rich Green_64
+  - first:
+      213: -305629605190404824
+    second: PC Computer - Ittle Dew - Jenny Rich Green_65
+  - first:
+      213: -3668439420961312267
+    second: PC Computer - Ittle Dew - Jenny Rich Green_66
+  - first:
+      213: -7195326433235971169
+    second: PC Computer - Ittle Dew - Jenny Rich Green_67
+  - first:
+      213: -8670469605431684369
+    second: PC Computer - Ittle Dew - Jenny Rich Green_68
+  - first:
+      213: -5742453001986839097
+    second: PC Computer - Ittle Dew - Jenny Rich Green_69
+  - first:
+      213: -6085826822513707886
+    second: PC Computer - Ittle Dew - Jenny Rich Green_70
+  - first:
+      213: -1994673760166982643
+    second: PC Computer - Ittle Dew - Jenny Rich Green_71
+  - first:
+      213: 4397041435803051135
+    second: PC Computer - Ittle Dew - Jenny Rich Green_72
+  - first:
+      213: -6749360241259889504
+    second: PC Computer - Ittle Dew - Jenny Rich Green_73
+  - first:
+      213: -559371084045147270
+    second: PC Computer - Ittle Dew - Jenny Rich Green_74
+  - first:
+      213: 1586898806166029046
+    second: PC Computer - Ittle Dew - Jenny Rich Green_75
+  - first:
+      213: 390776104042397932
+    second: PC Computer - Ittle Dew - Jenny Rich Green_76
+  - first:
+      213: -1782366067961116648
+    second: PC Computer - Ittle Dew - Jenny Rich Green_77
+  - first:
+      213: 7064773759636688248
+    second: PC Computer - Ittle Dew - Jenny Rich Green_78
+  - first:
+      213: 1835343845431542719
+    second: PC Computer - Ittle Dew - Jenny Rich Green_79
+  - first:
+      213: 5734378186937387385
+    second: PC Computer - Ittle Dew - Jenny Rich Green_80
+  - first:
+      213: -8250193339751157581
+    second: PC Computer - Ittle Dew - Jenny Rich Green_81
+  - first:
+      213: -3635437570698636279
+    second: PC Computer - Ittle Dew - Jenny Rich Green_0
+  - first:
+      213: 603278812725435244
+    second: PC Computer - Ittle Dew - Jenny Rich Green_1
+  - first:
+      213: 1603232361485548510
+    second: PC Computer - Ittle Dew - Jenny Rich Green_2
+  - first:
+      213: 5621282694057968813
+    second: PC Computer - Ittle Dew - Jenny Rich Green_3
+  - first:
+      213: -2438130365169519437
+    second: PC Computer - Ittle Dew - Jenny Rich Green_4
+  - first:
+      213: 4852288051074803877
+    second: PC Computer - Ittle Dew - Jenny Rich Green_5
+  - first:
+      213: -5753511031769191569
+    second: PC Computer - Ittle Dew - Jenny Rich Green_6
+  - first:
+      213: -2389427330793196796
+    second: PC Computer - Ittle Dew - Jenny Rich Green_7
+  - first:
+      213: 7124562515699737792
+    second: PC Computer - Ittle Dew - Jenny Rich Green_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Jenny Rich Green_0
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 712
+        width: 101
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90416637ac45c8dc0800000000000000
+      internalID: -3635437570698636279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Jenny Rich Green_1
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 537
+        width: 109
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bd40542e64f5800800000000000000
+      internalID: 603278812725435244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Jenny Rich Green_2
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 355
+        width: 108
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbb1c6a653df3610800000000000000
+      internalID: 1603232361485548510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Jenny Rich Green_3
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 357
+        width: 111
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da44061d3dec20e40800000000000000
+      internalID: 5621282694057968813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Jenny Rich Green_4
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 357
+        width: 112
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b43af3c9550a2ed0800000000000000
+      internalID: -2438130365169519437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Jenny Rich Green_5
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 682
+        width: 124
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 25, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8af20264ac65340800000000000000
+      internalID: 4852288051074803877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Jenny Rich Green_6
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 726
+        width: 119
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b2b14333c6720b0800000000000000
+      internalID: -5753511031769191569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Jenny Rich Green_7
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 719
+        width: 115
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403367b908c07ded0800000000000000
+      internalID: -2389427330793196796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Jenny Rich Green_8
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 187
+        width: 133
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4a8584cd78fd260800000000000000
+      internalID: 7124562515699737792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fed4708ca206d784daa6284f40fd92f1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1808 @@
+fileFormatVersion: 2
+guid: 7dab8805543a2254a9a4ccd7516c32b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1777828337486980604
+    second: PC Computer - Ittle Dew - Deer Jenny_0
+  - first:
+      213: -7145505655173157615
+    second: PC Computer - Ittle Dew - Deer Jenny_1
+  - first:
+      213: -8769970686203431797
+    second: PC Computer - Ittle Dew - Deer Jenny_2
+  - first:
+      213: -4013535637542006583
+    second: PC Computer - Ittle Dew - Deer Jenny_3
+  - first:
+      213: -366218664837667658
+    second: PC Computer - Ittle Dew - Deer Jenny_4
+  - first:
+      213: -5489914988574017631
+    second: PC Computer - Ittle Dew - Deer Jenny_5
+  - first:
+      213: -7479777217694375331
+    second: PC Computer - Ittle Dew - Deer Jenny_6
+  - first:
+      213: 7472827880484786926
+    second: PC Computer - Ittle Dew - Deer Jenny_7
+  - first:
+      213: 6370511496959802049
+    second: PC Computer - Ittle Dew - Deer Jenny_8
+  - first:
+      213: -345738529671864581
+    second: PC Computer - Ittle Dew - Deer Jenny_9
+  - first:
+      213: 6003809904319167345
+    second: PC Computer - Ittle Dew - Deer Jenny_10
+  - first:
+      213: 4548208016496341448
+    second: PC Computer - Ittle Dew - Deer Jenny_11
+  - first:
+      213: 6311183459987670106
+    second: PC Computer - Ittle Dew - Deer Jenny_12
+  - first:
+      213: -6715750890597484435
+    second: PC Computer - Ittle Dew - Deer Jenny_13
+  - first:
+      213: -7936817701332346741
+    second: PC Computer - Ittle Dew - Deer Jenny_14
+  - first:
+      213: -1265152960835916349
+    second: PC Computer - Ittle Dew - Deer Jenny_15
+  - first:
+      213: -5870297434152400437
+    second: PC Computer - Ittle Dew - Deer Jenny_16
+  - first:
+      213: 528557936301393471
+    second: PC Computer - Ittle Dew - Deer Jenny_17
+  - first:
+      213: 1885363728696172369
+    second: PC Computer - Ittle Dew - Deer Jenny_18
+  - first:
+      213: 926645102490923075
+    second: PC Computer - Ittle Dew - Deer Jenny_19
+  - first:
+      213: -6318382850467304470
+    second: PC Computer - Ittle Dew - Deer Jenny_20
+  - first:
+      213: 3893699382165944133
+    second: PC Computer - Ittle Dew - Deer Jenny_21
+  - first:
+      213: -8066392016206174947
+    second: PC Computer - Ittle Dew - Deer Jenny_22
+  - first:
+      213: -7775412633277223697
+    second: PC Computer - Ittle Dew - Deer Jenny_23
+  - first:
+      213: -2925009771659633149
+    second: PC Computer - Ittle Dew - Deer Jenny_24
+  - first:
+      213: -4384660922554329514
+    second: PC Computer - Ittle Dew - Deer Jenny_25
+  - first:
+      213: -4734882610058685235
+    second: PC Computer - Ittle Dew - Deer Jenny_26
+  - first:
+      213: 4262191284701530110
+    second: PC Computer - Ittle Dew - Deer Jenny_27
+  - first:
+      213: 7350194398465934938
+    second: PC Computer - Ittle Dew - Deer Jenny_28
+  - first:
+      213: 4900809797080819240
+    second: PC Computer - Ittle Dew - Deer Jenny_29
+  - first:
+      213: -8201179154406383996
+    second: PC Computer - Ittle Dew - Deer Jenny_30
+  - first:
+      213: 3016318319576241298
+    second: PC Computer - Ittle Dew - Deer Jenny_31
+  - first:
+      213: 7937662926338914792
+    second: PC Computer - Ittle Dew - Deer Jenny_32
+  - first:
+      213: 6368617953210875467
+    second: PC Computer - Ittle Dew - Deer Jenny_33
+  - first:
+      213: 7834033716784275147
+    second: PC Computer - Ittle Dew - Deer Jenny_34
+  - first:
+      213: -113722445113357981
+    second: PC Computer - Ittle Dew - Deer Jenny_35
+  - first:
+      213: 180584493696169585
+    second: PC Computer - Ittle Dew - Deer Jenny_36
+  - first:
+      213: -4649490541304223470
+    second: PC Computer - Ittle Dew - Deer Jenny_37
+  - first:
+      213: 9093743000286339709
+    second: PC Computer - Ittle Dew - Deer Jenny_38
+  - first:
+      213: 3501433454638634515
+    second: PC Computer - Ittle Dew - Deer Jenny_39
+  - first:
+      213: 1730831620464604672
+    second: PC Computer - Ittle Dew - Deer Jenny_40
+  - first:
+      213: -6880076501616273198
+    second: PC Computer - Ittle Dew - Deer Jenny_41
+  - first:
+      213: 7002114563478550729
+    second: PC Computer - Ittle Dew - Deer Jenny_42
+  - first:
+      213: -4874354583358177707
+    second: PC Computer - Ittle Dew - Deer Jenny_43
+  - first:
+      213: 6358055429894456304
+    second: PC Computer - Ittle Dew - Deer Jenny_44
+  - first:
+      213: 5909638502545110437
+    second: PC Computer - Ittle Dew - Deer Jenny_45
+  - first:
+      213: 836902784403706355
+    second: PC Computer - Ittle Dew - Deer Jenny_46
+  - first:
+      213: -2296511424857825739
+    second: PC Computer - Ittle Dew - Deer Jenny_47
+  - first:
+      213: 2594579370876294315
+    second: PC Computer - Ittle Dew - Deer Jenny_48
+  - first:
+      213: 652712322864867364
+    second: PC Computer - Ittle Dew - Deer Jenny_49
+  - first:
+      213: -6991553154128620670
+    second: PC Computer - Ittle Dew - Deer Jenny_50
+  - first:
+      213: -4448593687779331450
+    second: PC Computer - Ittle Dew - Deer Jenny_51
+  - first:
+      213: 568861863153770646
+    second: PC Computer - Ittle Dew - Deer Jenny_52
+  - first:
+      213: -8505746880204395025
+    second: PC Computer - Ittle Dew - Deer Jenny_53
+  - first:
+      213: 1959941914425232438
+    second: PC Computer - Ittle Dew - Deer Jenny_54
+  - first:
+      213: -7240407089286918110
+    second: PC Computer - Ittle Dew - Deer Jenny_55
+  - first:
+      213: -6871466397729174987
+    second: PC Computer - Ittle Dew - Deer Jenny_56
+  - first:
+      213: -1349618456683875865
+    second: PC Computer - Ittle Dew - Deer Jenny_57
+  - first:
+      213: 6524738266977836863
+    second: PC Computer - Ittle Dew - Deer Jenny_58
+  - first:
+      213: -3403701154027965947
+    second: PC Computer - Ittle Dew - Deer Jenny_59
+  - first:
+      213: 2256620184441090509
+    second: PC Computer - Ittle Dew - Deer Jenny_60
+  - first:
+      213: -3648860249482381231
+    second: PC Computer - Ittle Dew - Deer Jenny_61
+  - first:
+      213: 5834543476447094764
+    second: PC Computer - Ittle Dew - Deer Jenny_62
+  - first:
+      213: 5680825571124619548
+    second: PC Computer - Ittle Dew - Deer Jenny_63
+  - first:
+      213: 6034790208777005642
+    second: PC Computer - Ittle Dew - Deer Jenny_64
+  - first:
+      213: 8921433104101735556
+    second: PC Computer - Ittle Dew - Deer Jenny_65
+  - first:
+      213: 4116087572691558677
+    second: PC Computer - Ittle Dew - Deer Jenny_66
+  - first:
+      213: 6552235851062691686
+    second: PC Computer - Ittle Dew - Deer Jenny_67
+  - first:
+      213: -1027781115905681205
+    second: PC Computer - Ittle Dew - Deer Jenny_68
+  - first:
+      213: -5191867494279106146
+    second: PC Computer - Ittle Dew - Deer Jenny_69
+  - first:
+      213: 6787398906629886252
+    second: PC Computer - Ittle Dew - Deer Jenny_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_0
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 990
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a1770eb82e357e0800000000000000
+      internalID: -1777828337486980604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_1
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 999
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11debd2177016dc90800000000000000
+      internalID: -7145505655173157615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_2
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 989
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84714e402eca4680800000000000000
+      internalID: -8769970686203431797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_3
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 751
+        width: 157
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c010fe2a9e0d48c0800000000000000
+      internalID: -4013535637542006583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_4
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 982
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4ab3c801eeaeaf0800000000000000
+      internalID: -366218664837667658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_5
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 978
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7f3fa9767efc3b0800000000000000
+      internalID: -5489914988574017631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_6
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 969
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d526444004e723890800000000000000
+      internalID: -7479777217694375331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_7
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 963
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee25ee35d51d4b760800000000000000
+      internalID: 7472827880484786926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_8
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 959
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab4dd347a986850800000000000000
+      internalID: 6370511496959802049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_9
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 968
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe1eb993a0b33bf0800000000000000
+      internalID: -345738529671864581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_10
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 962
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b7ae56c41d15350800000000000000
+      internalID: 6003809904319167345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_11
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 957
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c139d3f71b7e1f30800000000000000
+      internalID: 4548208016496341448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_12
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 952
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54c2e43be3d59750800000000000000
+      internalID: 6311183459987670106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_13
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 920
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d687ce5852cdcc2a0800000000000000
+      internalID: -6715750890597484435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_14
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 924
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b889d090a52cad190800000000000000
+      internalID: -7936817701332346741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_15
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 924
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd67dec516417ee0800000000000000
+      internalID: -1265152960835916349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_16
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 928
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc98577f593888ea0800000000000000
+      internalID: -5870297434152400437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_17
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 928
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36457484a0d55700800000000000000
+      internalID: 528557936301393471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_18
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 919
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f575972582a2a10800000000000000
+      internalID: 1885363728696172369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_19
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 706
+        width: 147
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340b3d6afca1cdc00800000000000000
+      internalID: 926645102490923075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_20
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 904
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebe9f216489058a0800000000000000
+      internalID: -6318382850467304470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_21
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 679
+        width: 137
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547b82855f2390630800000000000000
+      internalID: 3893699382165944133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_22
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 889
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15ebf6e23b6e0090800000000000000
+      internalID: -8066392016206174947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_23
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 888
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec2d6be76f281490800000000000000
+      internalID: -7775412633277223697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_24
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 691
+        width: 177
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e5eab2c174867d0800000000000000
+      internalID: -2925009771659633149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_25
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 887
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656dc923f1e8623c0800000000000000
+      internalID: -4384660922554329514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_26
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 896
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc417464a515a4eb0800000000000000
+      internalID: -4734882610058685235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_27
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 892
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef786613468562b30800000000000000
+      internalID: 4262191284701530110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_28
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 892
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56c0a6ccd2210660800000000000000
+      internalID: 7350194398465934938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_29
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 896
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826a1ca7b8c230440800000000000000
+      internalID: 4900809797080819240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_30
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 883
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ed442c20f8f2e80800000000000000
+      internalID: -8201179154406383996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 670
+        width: 131
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29458dfc78d1cd920800000000000000
+      internalID: 3016318319576241298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_32
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 672
+        width: 131
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9f73f306e382e60800000000000000
+      internalID: 7937662926338914792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_33
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 668
+        width: 161
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e3f4b3940e16850800000000000000
+      internalID: 6368617953210875467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_34
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 879
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce1c5fa82418bc60800000000000000
+      internalID: 7834033716784275147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_35
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 874
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3698708e90afb6ef0800000000000000
+      internalID: -113722445113357981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_36
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 878
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17634b6e3a0918200800000000000000
+      internalID: 180584493696169585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_37
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 655
+        width: 176
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219e50b9cf0b97fb0800000000000000
+      internalID: -4649490541304223470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 449
+        width: 130
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7223caf317733e70800000000000000
+      internalID: 9093743000286339709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_39
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 449
+        width: 132
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3169764fc27979030800000000000000
+      internalID: 3501433454638634515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_40
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 456
+        width: 140
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0067ecf3036250810800000000000000
+      internalID: 1730831620464604672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_41
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 451
+        width: 162
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d856adbfde0580a0800000000000000
+      internalID: -6880076501616273198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_42
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 656
+        width: 180
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c87ab0c8128c2160800000000000000
+      internalID: 7002114563478550729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_43
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 471
+        width: 137
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e73a5f450da5cb0800000000000000
+      internalID: -4874354583358177707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_44
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 475
+        width: 188
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f34a112ab95c3850800000000000000
+      internalID: 6358055429894456304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_45
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 647
+        width: 176
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a53c2f48e0430250800000000000000
+      internalID: 5909638502545110437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_46
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 501
+        width: 164
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f11be7f5a64d9b00800000000000000
+      internalID: 836902784403706355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 226
+        width: 134
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e19bac6072120e0800000000000000
+      internalID: -2296511424857825739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_48
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 224
+        width: 135
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba453aee03cc10420800000000000000
+      internalID: 2594579370876294315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_49
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 224
+        width: 277
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42861e04666ee0900800000000000000
+      internalID: 652712322864867364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_50
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 226
+        width: 138
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283d6ebf27309fe90800000000000000
+      internalID: -6991553154128620670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_51
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 226
+        width: 166
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6823ed15c9b6342c0800000000000000
+      internalID: -4448593687779331450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_52
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 443
+        width: 184
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6902c8fb9d005e700800000000000000
+      internalID: 568861863153770646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_53
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 252
+        width: 157
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feda700274485f980800000000000000
+      internalID: -8505746880204395025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_54
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 219
+        width: 160
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c07b579cc133b10800000000000000
+      internalID: 1959941914425232438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_55
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 423
+        width: 184
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22055d51d18e48b90800000000000000
+      internalID: -7240407089286918110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_56
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 439
+        width: 194
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ac155c7b5a3a0a0800000000000000
+      internalID: -6871466397729174987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_57
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 255
+        width: 168
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1fb0b0a21354de0800000000000000
+      internalID: -1349618456683875865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_58
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 164
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f9c9f52e68c8a50800000000000000
+      internalID: 6524738266977836863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_59
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 0
+        width: 172
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502739085df93c0d0800000000000000
+      internalID: -3403701154027965947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_60
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 214
+        width: 173
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc176960a10215f10800000000000000
+      internalID: 2256620184441090509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_61
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 0
+        width: 157
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1583f828fe4ac5dc0800000000000000
+      internalID: -3648860249482381231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_62
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 211
+        width: 194
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7a33c016678f050800000000000000
+      internalID: 5834543476447094764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_63
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 221
+        width: 192
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19a6d532c856de40800000000000000
+      internalID: 5680825571124619548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_64
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 0
+        width: 173
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa820a8b1efb350800000000000000
+      internalID: 6034790208777005642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cf461f32c4fcb70800000000000000
+      internalID: 8921433104101735556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_66
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 374
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5112ea2e6d74f1930800000000000000
+      internalID: 4116087572691558677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_67
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 0
+        width: 185
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667cb239ac73eea50800000000000000
+      internalID: 6552235851062691686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_68
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 186
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8569f35869cb1f0800000000000000
+      internalID: -1027781115905681205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_69
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 0
+        width: 193
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91b89a8508c2f7b0800000000000000
+      internalID: -5191867494279106146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Deer Jenny_70
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 0
+        width: 194
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c219c8a285fa13e50800000000000000
+      internalID: 6787398906629886252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c045c551ac508804580feda0df686ab6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

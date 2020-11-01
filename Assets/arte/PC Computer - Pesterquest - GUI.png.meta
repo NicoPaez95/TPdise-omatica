@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: ba94f52faca8e5c4eae2e68154267001
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5129388523558848010
+    second: PC Computer - Pesterquest - GUI_0
+  - first:
+      213: -2751730658187864733
+    second: PC Computer - Pesterquest - GUI_1
+  - first:
+      213: 8864397013043871500
+    second: PC Computer - Pesterquest - GUI_2
+  - first:
+      213: 7703714893654343431
+    second: PC Computer - Pesterquest - GUI_3
+  - first:
+      213: -8174579516900902934
+    second: PC Computer - Pesterquest - GUI_4
+  - first:
+      213: 3585974326980590388
+    second: PC Computer - Pesterquest - GUI_5
+  - first:
+      213: 7088332379878224145
+    second: PC Computer - Pesterquest - GUI_6
+  - first:
+      213: 3512024827936191198
+    second: PC Computer - Pesterquest - GUI_7
+  - first:
+      213: 3274692455734180815
+    second: PC Computer - Pesterquest - GUI_8
+  - first:
+      213: 538034331259154543
+    second: PC Computer - Pesterquest - GUI_9
+  - first:
+      213: 2286164212836900411
+    second: PC Computer - Pesterquest - GUI_10
+  - first:
+      213: -5101793179227820855
+    second: PC Computer - Pesterquest - GUI_11
+  - first:
+      213: -6865677936268609524
+    second: PC Computer - Pesterquest - GUI_12
+  - first:
+      213: -1015059901355458056
+    second: PC Computer - Pesterquest - GUI_13
+  - first:
+      213: -6725397471893117575
+    second: PC Computer - Pesterquest - GUI_14
+  - first:
+      213: 4439121354769032766
+    second: PC Computer - Pesterquest - GUI_15
+  - first:
+      213: -5817107733001731894
+    second: PC Computer - Pesterquest - GUI_16
+  - first:
+      213: 1970295794650971078
+    second: PC Computer - Pesterquest - GUI_17
+  - first:
+      213: -38929228437812169
+    second: PC Computer - Pesterquest - GUI_18
+  - first:
+      213: -1737108795417724396
+    second: PC Computer - Pesterquest - GUI_19
+  - first:
+      213: 1543915238362041660
+    second: PC Computer - Pesterquest - GUI_20
+  - first:
+      213: -8674214089990674909
+    second: PC Computer - Pesterquest - GUI_21
+  - first:
+      213: -4948616749064151913
+    second: PC Computer - Pesterquest - GUI_22
+  - first:
+      213: -548797259529752717
+    second: PC Computer - Pesterquest - GUI_23
+  - first:
+      213: -4839372482372752524
+    second: PC Computer - Pesterquest - GUI_24
+  - first:
+      213: 5339256152189521368
+    second: PC Computer - Pesterquest - GUI_25
+  - first:
+      213: -3651165723006471103
+    second: PC Computer - Pesterquest - GUI_26
+  - first:
+      213: -4572798091285611486
+    second: PC Computer - Pesterquest - GUI_27
+  - first:
+      213: 5471088870112473953
+    second: PC Computer - Pesterquest - GUI_28
+  - first:
+      213: -3221088943798769919
+    second: PC Computer - Pesterquest - GUI_29
+  - first:
+      213: 3447907032880487003
+    second: PC Computer - Pesterquest - GUI_30
+  - first:
+      213: -7006841456629858162
+    second: PC Computer - Pesterquest - GUI_31
+  - first:
+      213: 7513339588326275391
+    second: PC Computer - Pesterquest - GUI_32
+  - first:
+      213: 8245490752786117861
+    second: PC Computer - Pesterquest - GUI_33
+  - first:
+      213: 1572682020935976552
+    second: PC Computer - Pesterquest - GUI_34
+  - first:
+      213: -4446147889183873294
+    second: PC Computer - Pesterquest - GUI_35
+  - first:
+      213: 5623808403407997261
+    second: PC Computer - Pesterquest - GUI_36
+  - first:
+      213: 7417008130604328437
+    second: PC Computer - Pesterquest - GUI_37
+  - first:
+      213: -6912724684385432687
+    second: PC Computer - Pesterquest - GUI_38
+  - first:
+      213: -1730259120942077678
+    second: PC Computer - Pesterquest - GUI_39
+  - first:
+      213: 9091008924424321718
+    second: PC Computer - Pesterquest - GUI_40
+  - first:
+      213: 3954354272825615397
+    second: PC Computer - Pesterquest - GUI_41
+  - first:
+      213: 8099901445424499628
+    second: PC Computer - Pesterquest - GUI_42
+  - first:
+      213: -83532453559740499
+    second: PC Computer - Pesterquest - GUI_43
+  - first:
+      213: -5707459484998556050
+    second: PC Computer - Pesterquest - GUI_44
+  - first:
+      213: 5612415781492097447
+    second: PC Computer - Pesterquest - GUI_45
+  - first:
+      213: 3455317234182291442
+    second: PC Computer - Pesterquest - GUI_46
+  - first:
+      213: -4474098565348317745
+    second: PC Computer - Pesterquest - GUI_47
+  - first:
+      213: 414428488107936198
+    second: PC Computer - Pesterquest - GUI_48
+  - first:
+      213: -266315853372988211
+    second: PC Computer - Pesterquest - GUI_49
+  - first:
+      213: -7418512710852939928
+    second: PC Computer - Pesterquest - GUI_50
+  - first:
+      213: -1441106200400891454
+    second: PC Computer - Pesterquest - GUI_51
+  - first:
+      213: 7607177699519658809
+    second: PC Computer - Pesterquest - GUI_52
+  - first:
+      213: 3369972439286149091
+    second: PC Computer - Pesterquest - GUI_53
+  - first:
+      213: 3694643647669018865
+    second: PC Computer - Pesterquest - GUI_54
+  - first:
+      213: 6302335779736690058
+    second: PC Computer - Pesterquest - GUI_55
+  - first:
+      213: -1857941661844309098
+    second: PC Computer - Pesterquest - GUI_56
+  - first:
+      213: 2830703342791823467
+    second: PC Computer - Pesterquest - GUI_57
+  - first:
+      213: 8529145496835800248
+    second: PC Computer - Pesterquest - GUI_58
+  - first:
+      213: 5147985496768414749
+    second: PC Computer - Pesterquest - GUI_59
+  - first:
+      213: -6432088077179052933
+    second: PC Computer - Pesterquest - GUI_60
+  - first:
+      213: -3001140509907153739
+    second: PC Computer - Pesterquest - GUI_61
+  - first:
+      213: 5222161554590887141
+    second: PC Computer - Pesterquest - GUI_62
+  - first:
+      213: -2839678417712834757
+    second: PC Computer - Pesterquest - GUI_63
+  - first:
+      213: 8881718302009738785
+    second: PC Computer - Pesterquest - GUI_64
+  - first:
+      213: -8473782284046663009
+    second: PC Computer - Pesterquest - GUI_65
+  - first:
+      213: 251176392290858885
+    second: PC Computer - Pesterquest - GUI_66
+  - first:
+      213: -6775087319708705388
+    second: PC Computer - Pesterquest - GUI_67
+  - first:
+      213: 6752768929330760582
+    second: PC Computer - Pesterquest - GUI_68
+  - first:
+      213: 4081855297938986202
+    second: PC Computer - Pesterquest - GUI_69
+  - first:
+      213: -4102960711892880767
+    second: PC Computer - Pesterquest - GUI_70
+  - first:
+      213: 8534031346335094534
+    second: PC Computer - Pesterquest - GUI_71
+  - first:
+      213: 1462686210574149148
+    second: PC Computer - Pesterquest - GUI_72
+  - first:
+      213: 763572678755808246
+    second: PC Computer - Pesterquest - GUI_73
+  - first:
+      213: 1104618678364472504
+    second: PC Computer - Pesterquest - GUI_74
+  - first:
+      213: 3561802898560786456
+    second: PC Computer - Pesterquest - GUI_75
+  - first:
+      213: 2164526582193792001
+    second: PC Computer - Pesterquest - GUI_76
+  - first:
+      213: -3591099018447065811
+    second: PC Computer - Pesterquest - GUI_77
+  - first:
+      213: -2667990442192995589
+    second: PC Computer - Pesterquest - GUI_78
+  - first:
+      213: 7019398899987717056
+    second: PC Computer - Pesterquest - GUI_79
+  - first:
+      213: 3661615281141607971
+    second: PC Computer - Pesterquest - GUI_80
+  - first:
+      213: 2096088959768886822
+    second: PC Computer - Pesterquest - GUI_81
+  - first:
+      213: -753243497625766093
+    second: PC Computer - Pesterquest - GUI_82
+  - first:
+      213: 174583273627900472
+    second: PC Computer - Pesterquest - GUI_83
+  - first:
+      213: 5959848757277594477
+    second: PC Computer - Pesterquest - GUI_84
+  - first:
+      213: -7463168005783472463
+    second: PC Computer - Pesterquest - GUI_85
+  - first:
+      213: -2295962033045699991
+    second: PC Computer - Pesterquest - GUI_86
+  - first:
+      213: 3002819221143966218
+    second: PC Computer - Pesterquest - GUI_87
+  - first:
+      213: 4427525773842665315
+    second: PC Computer - Pesterquest - GUI_0
+  - first:
+      213: -4492351484430359526
+    second: PC Computer - Pesterquest - GUI_1
+  - first:
+      213: 590108700975964401
+    second: PC Computer - Pesterquest - GUI_2
+  - first:
+      213: 7812502824398103447
+    second: PC Computer - Pesterquest - GUI_3
+  - first:
+      213: 1455713483834788606
+    second: PC Computer - Pesterquest - GUI_4
+  - first:
+      213: -4044211342537789102
+    second: PC Computer - Pesterquest - GUI_5
+  - first:
+      213: 8531773859549569731
+    second: PC Computer - Pesterquest - GUI_6
+  - first:
+      213: 805860135721082232
+    second: PC Computer - Pesterquest - GUI_7
+  - first:
+      213: -3964957732224404609
+    second: PC Computer - Pesterquest - GUI_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 236
+        height: 40
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06c0bd7faf3f2740800000000000000
+      internalID: 5129388523558848010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 544
+        width: 60
+        height: 64
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b395da6a0f3c130800000000000000
+      internalID: 3585974326980590388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 544
+        width: 60
+        height: 64
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1117a807eb0de5260800000000000000
+      internalID: 7088332379878224145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 236
+        height: 44
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed23d7739f73db030800000000000000
+      internalID: 3512024827936191198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_12
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 478
+        width: 62
+        height: 56
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08f87afa4638b0a0800000000000000
+      internalID: -6865677936268609524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 478
+        width: 62
+        height: 56
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f107f1d568c9e1f0800000000000000
+      internalID: -1015059901355458056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 463
+        width: 198
+        height: 42
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975208ac1a69aa2a0800000000000000
+      internalID: -6725397471893117575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_18
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 433
+        width: 55
+        height: 35
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c859fa212b57ff0800000000000000
+      internalID: -38929228437812169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 434
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a7be011cc84e7e0800000000000000
+      internalID: -1737108795417724396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 202
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dc1e1bab61d6510800000000000000
+      internalID: 1543915238362041660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 367
+        width: 55
+        height: 50
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b2f5c0e5817dcb0800000000000000
+      internalID: -4839372482372752524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 396
+        width: 11
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd431c8e29d81a40800000000000000
+      internalID: 5339256152189521368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_26
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 367
+        width: 55
+        height: 50
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144fd10ae14745dc0800000000000000
+      internalID: -3651165723006471103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_27
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 396
+        width: 11
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c365b1d582a80c0800000000000000
+      internalID: -4572798091285611486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 316
+        height: 41
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163b5ad17563deb40800000000000000
+      internalID: 5471088870112473953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 316
+        height: 44
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d498df952f7cb0e40800000000000000
+      internalID: 5623808403407997261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_44
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 301
+        width: 15
+        height: 56
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e662aba76d70bc0b0800000000000000
+      internalID: -5707459484998556050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 301
+        width: 16
+        height: 56
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a102abda6e43ed40800000000000000
+      internalID: 5612415781492097447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 301
+        width: 15
+        height: 56
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff78b9a7b0c3ff20800000000000000
+      internalID: 3455317234182291442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_47
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 301
+        width: 15
+        height: 56
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc524524f0fc8e1c0800000000000000
+      internalID: -4474098565348317745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_48
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 301
+        width: 16
+        height: 56
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c972a38850c500800000000000000
+      internalID: 414428488107936198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_49
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 301
+        width: 15
+        height: 56
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4e5a1742bdd4cf0800000000000000
+      internalID: -266315853372988211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_56
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 229
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bfe5007e34736e0800000000000000
+      internalID: -1857941661844309098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_57
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 229
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b601e9b41bda84720800000000000000
+      internalID: 2830703342791823467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 196
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaf2f414d469fad0800000000000000
+      internalID: -2667990442192995589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pesterquest - GUI_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 197
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ad058ff8e3c6200800000000000000
+      internalID: 174583273627900472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 20ce52a2b0ff1b844b3ad310e2aa7634
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
