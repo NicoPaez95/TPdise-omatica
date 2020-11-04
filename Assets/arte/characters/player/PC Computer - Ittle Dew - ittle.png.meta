@@ -266,6 +266,12 @@ TextureImporter:
   - first:
       213: 3598924745688971128
     second: PC Computer - Ittle Dew - ittle_87
+  - first:
+      213: 1591968488446540839
+    second: PC Computer - Ittle Dew - ittle_1
+  - first:
+      213: 2610061786906744581
+    second: PC Computer - Ittle Dew - ittle_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -409,27 +415,6 @@ TextureImporter:
       bones: []
       spriteID: 17c48d05b96bbd530800000000000000
       internalID: 3880896282102353009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - Ittle Dew - ittle_21
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 1028
-        width: 98
-        height: 165
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ece90b9ec34eed4a0800000000000000
-      internalID: -6566560256389767474
       vertices: []
       indices: 
       edges: []
@@ -734,8 +719,8 @@ TextureImporter:
         serializedVersion: 2
         x: 802
         y: 1709
-        width: 112
-        height: 173
+        width: 98
+        height: 171
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 10, w: 0}
@@ -750,34 +735,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC Computer - Ittle Dew - ittle_1
-      rect:
-        serializedVersion: 2
-        x: 1107
-        y: 1726
-        width: 117
-        height: 161
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1fba00631e8952f00800000000000000
-      internalID: 1091446577748290545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: PC Computer - Ittle Dew - ittle_2
       rect:
         serializedVersion: 2
-        x: 901
-        y: 1882
-        width: 114
-        height: 164
+        x: 904
+        y: 1709
+        width: 103
+        height: 174
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -787,27 +751,6 @@ TextureImporter:
       bones: []
       spriteID: 34aac6477c57c86c0800000000000000
       internalID: -4139804457948108221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC Computer - Ittle Dew - ittle_3
-      rect:
-        serializedVersion: 2
-        x: 1101
-        y: 1891
-        width: 122
-        height: 153
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 291e9d1b289529650800000000000000
-      internalID: 6238146851726025106
       vertices: []
       indices: 
       edges: []
@@ -926,7 +869,7 @@ TextureImporter:
         width: 125
         height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 10, w: 0}
       outline: []
       physicsShape: []
@@ -947,7 +890,7 @@ TextureImporter:
         width: 119
         height: 170
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -955,6 +898,132 @@ TextureImporter:
       bones: []
       spriteID: 4370c157a9e2d3620800000000000000
       internalID: 2755409787945223988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - ittle_1
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1534
+        width: 100
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cb877d7eec71610800000000000000
+      internalID: 1591968488446540839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - ittle_3
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1376
+        width: 102
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507d562dd5dc83420800000000000000
+      internalID: 2610061786906744581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - ittle_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1364
+        width: 124
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af169aefb9e0a340800000000000000
+      internalID: 4873151807298609065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - ittle_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1027
+        width: 102
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1c70a50569c89f0800000000000000
+      internalID: -464831389673995786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - ittle_13
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1027
+        width: 101
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99aeec009c468980800000000000000
+      internalID: -8537051862058227297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - ittle_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1193
+        width: 100
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dab7a34619c6a4f0800000000000000
+      internalID: -817745184859637035
       vertices: []
       indices: 
       edges: []
