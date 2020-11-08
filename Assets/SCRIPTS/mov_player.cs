@@ -44,14 +44,20 @@ public class mov_player : MonoBehaviour
         //Debug.Log(RbVelocity);
 
 
-        if (enSuelo==true && Input.GetKeyDown(KeyCode.Space))
+       
+
+    }
+
+
+    private void Update()
+    {
+        if (enSuelo == true && Input.GetKeyDown(KeyCode.Space))
         {
-            Debug.Log("hola");
+            Debug.Log("tocosuelo");
             enSuelo = false;
             rb.AddForce(Vector2.up * 60000, ForceMode2D.Impulse);
 
         }
-
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

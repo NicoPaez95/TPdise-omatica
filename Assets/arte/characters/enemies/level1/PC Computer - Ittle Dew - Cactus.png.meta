@@ -53,6 +53,9 @@ TextureImporter:
   - first:
       213: 6767801594229896631
     second: PC Computer - Ittle Dew - Cactus_16
+  - first:
+      213: -7628611775294738778
+    second: PC Computer - Ittle Dew - Cactus_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -146,7 +149,7 @@ TextureImporter:
         width: 112
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -167,7 +170,7 @@ TextureImporter:
         width: 180
         height: 266
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -188,7 +191,7 @@ TextureImporter:
         width: 196
         height: 267
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -209,7 +212,7 @@ TextureImporter:
         width: 225
         height: 253
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -225,12 +228,12 @@ TextureImporter:
       name: PC Computer - Ittle Dew - Cactus_4
       rect:
         serializedVersion: 2
-        x: 1571
-        y: 292
-        width: 234
-        height: 563
+        x: 1573
+        y: 586
+        width: 233
+        height: 273
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -251,7 +254,7 @@ TextureImporter:
         width: 240
         height: 305
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -272,7 +275,7 @@ TextureImporter:
         width: 232
         height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -293,7 +296,7 @@ TextureImporter:
         width: 193
         height: 550
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -314,7 +317,7 @@ TextureImporter:
         width: 203
         height: 265
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -335,7 +338,7 @@ TextureImporter:
         width: 234
         height: 272
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -356,7 +359,7 @@ TextureImporter:
         width: 198
         height: 286
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -377,7 +380,7 @@ TextureImporter:
         width: 236
         height: 292
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -398,7 +401,7 @@ TextureImporter:
         width: 243
         height: 304
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -419,7 +422,7 @@ TextureImporter:
         width: 377
         height: 264
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -440,7 +443,7 @@ TextureImporter:
         width: 208
         height: 239
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -461,7 +464,7 @@ TextureImporter:
         width: 195
         height: 264
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -482,7 +485,7 @@ TextureImporter:
         width: 210
         height: 266
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -490,6 +493,27 @@ TextureImporter:
       bones: []
       spriteID: 7b5356e41bf0ced50800000000000000
       internalID: 6767801594229896631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Cactus_17
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 292
+        width: 224
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aee13c220ab12690800000000000000
+      internalID: -7628611775294738778
       vertices: []
       indices: 
       edges: []
