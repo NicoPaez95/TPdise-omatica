@@ -36,7 +36,7 @@ public class DemoManager : MonoBehaviour
 
     private void DIE()
     {
-        LIVES--;
+        LIVES=LIVES-1;
         TxtLives.text = "Vidas:" + LIVES;
     }
 }

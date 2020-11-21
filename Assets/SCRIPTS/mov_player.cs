@@ -12,6 +12,10 @@ public class mov_player : MonoBehaviour
     bool enSuelo = true;
 
     public UnityEvent die = new UnityEvent();
+
+    public bool isattacking = false;
+
+    public MonoBehaviour camMono;
     private void Start()
     {
         animator=GetComponent<Animator>();
@@ -19,7 +23,10 @@ public class mov_player : MonoBehaviour
 
         rb = GetComponent<Rigidbody2D>();
 
-        
+        camMono = Camera.main.GetComponent<MonoBehaviour>();
+
+
+
     }
     private void FixedUpdate()
     {
@@ -69,6 +76,14 @@ public class mov_player : MonoBehaviour
             rb.AddForce(Vector2.up * 60000, ForceMode2D.Impulse);
 
         }
+
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            animator.SetTrigger("attack");
+
+        }
+
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -88,7 +103,65 @@ public class mov_player : MonoBehaviour
             Debug.Log("muere");
             die.Invoke();
         }
-        
+
+        if (collision.gameObject.tag=="jenny"&& isattacking == false)
+        {
+
+            animator.SetTrigger("PlayerDead");
+
+           StartCoroutine(playerdead());
+        }
+
+        if (collision.gameObject.tag == "cactus" && isattacking == false)
+        {
+            animator.SetTrigger("PlayerDead");
+
+            StartCoroutine(playerdead());
+        }
+
     }
-    
+        
+
+    IEnumerator delay()
+    {
+        yield return new WaitForSeconds(2f);
+
+        isattacking = false;
+    }
+
+    public void dodamage()
+    {
+        isattacking = true;
+    }
+
+    public void ExitDoDamage()
+    {
+        StartCoroutine(delay());
+    }
+
+
+    IEnumerator playerdead()
+    {
+        
+        yield return new WaitForSeconds(0.5f);
+
+        gameObject.SetActive(false);
+
+        camMono.StartCoroutine(returnPlayer());
+
+        this.die.Invoke();
+
+      
+    }
+
+    IEnumerator returnPlayer()
+    {
+        yield return new WaitForSeconds(0.5f);
+
+        gameObject.SetActive(true);
+
+        this.gameObject.transform.position = new Vector3(-22, 414, 0);
+
+    }
+
 }
