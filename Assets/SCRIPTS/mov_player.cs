@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
-using UnityEngine.SceneManagement;
+
 public class mov_player : MonoBehaviour
 {
     Animator animator;
@@ -16,9 +16,6 @@ public class mov_player : MonoBehaviour
     public bool isattacking = false;
 
     public MonoBehaviour camMono;
-
-    public bool pickkey;
-
     private void Start()
     {
         animator=GetComponent<Animator>();
@@ -28,7 +25,7 @@ public class mov_player : MonoBehaviour
 
         camMono = Camera.main.GetComponent<MonoBehaviour>();
 
-        pickkey = false;
+
 
     }
     private void FixedUpdate()
@@ -61,6 +58,11 @@ public class mov_player : MonoBehaviour
         velocidad.y = Mathf.Clamp(velocidad.y, -1000, 1000);
 
         rb.velocity = velocidad;
+
+        
+
+
+
 
     }
 
@@ -115,22 +117,7 @@ public class mov_player : MonoBehaviour
             animator.SetTrigger("PlayerDead");
 
             StartCoroutine(playerdead());
-
         }
-
-        if (collision.gameObject.CompareTag("bandera"))
-        {
-            SceneManager.LoadScene("nivel2");
-        }
-
-        if (collision.gameObject.CompareTag("llave"))
-        {
-            pickkey = true;
-
-            collision.gameObject.SetActive(false);
-        }
-
-     
 
     }
         
