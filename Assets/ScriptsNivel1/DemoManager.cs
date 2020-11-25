@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 public class DemoManager : MonoBehaviour
 {
     public int CoinsCount;
@@ -10,8 +11,24 @@ public class DemoManager : MonoBehaviour
 
     public int LIVES;
     public Text TxtLives;
+    public Text txtlose;
     public mov_player player;
+    public Button resstar;
+    public string NIVEL;
     // Start is called before the first frame update
+
+
+    private void Update()
+    {
+        if (LIVES <= 0)
+        {
+            Time.timeScale = 0f;
+            txtlose.gameObject.SetActive(true);
+            resstar.gameObject.SetActive(true);
+        }
+    }
+
+
     void Start()
     {
         //monedas//
@@ -38,5 +55,15 @@ public class DemoManager : MonoBehaviour
     {
         LIVES=LIVES-1;
         TxtLives.text = "Vidas:" + LIVES;
+    }
+
+
+    public void restarscene()
+    {
+        LIVES = 7;
+        Time.timeScale = 1f;
+        SceneManager.LoadScene(NIVEL);
+
+
     }
 }

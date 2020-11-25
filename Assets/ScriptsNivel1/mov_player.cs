@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class mov_player : MonoBehaviour
 {
@@ -15,7 +17,11 @@ public class mov_player : MonoBehaviour
 
     public bool isattacking = false;
 
+    public bool pickkey;
+
     public MonoBehaviour camMono;
+
+    public Text win;
     private void Start()
     {
         animator=GetComponent<Animator>();
@@ -25,6 +31,7 @@ public class mov_player : MonoBehaviour
 
         camMono = Camera.main.GetComponent<MonoBehaviour>();
 
+        pickkey = false;
 
 
     }
@@ -119,8 +126,36 @@ public class mov_player : MonoBehaviour
             StartCoroutine(playerdead());
         }
 
+        if (collision.gameObject.tag == "titan" && isattacking == false)
+        {
+            animator.SetTrigger("PlayerDead");
+
+            StartCoroutine(playerdead());
+        }
+
+        if (collision.gameObject.CompareTag("bandera"))
+        {
+            SceneManager.LoadScene("nivel2");
+        }
+
+        if (collision.gameObject.CompareTag("bandera2"))
+        {
+            win.gameObject.SetActive(true);
+            Time.timeScale = 0f;
+        }
+
+        if (collision.gameObject.CompareTag("llave"))
+        {
+            pickkey = true;
+
+            collision.gameObject.SetActive(false);
+        }
+
+
+
+
     }
-        
+
 
     IEnumerator delay()
     {

@@ -548,6 +548,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Jenny Rich Green_9
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 358
+        width: 122
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5891bcbffcc5e3b20800000000000000
+      internalID: 3116030040539339141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ittle Dew - Jenny Rich Green_10
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1
+        width: 133
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85144c7496d1037f0800000000000000
+      internalID: -634975209446424232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

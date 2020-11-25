@@ -10,6 +10,10 @@ TagManager:
   - palo
   - jenny
   - cactus
+  - llave
+  - bandera
+  - bandera2
+  - titan
   layers:
   - Default
   - TransparentFX
