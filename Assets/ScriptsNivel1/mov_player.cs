@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-
+using Firebase.Database;
 public class mov_player : MonoBehaviour
 {
     Animator animator;
@@ -22,19 +22,21 @@ public class mov_player : MonoBehaviour
     public MonoBehaviour camMono;
 
     public Text win;
+
+ 
     private void Start()
     {
         animator=GetComponent<Animator>();
-
 
         rb = GetComponent<Rigidbody2D>();
 
         camMono = Camera.main.GetComponent<MonoBehaviour>();
 
         pickkey = false;
-
-
+        
     }
+
+   
     private void FixedUpdate()
     {
         if (Input.GetKey(KeyCode.RightArrow))
@@ -66,12 +68,9 @@ public class mov_player : MonoBehaviour
 
         rb.velocity = velocidad;
 
-        
-
-
-
-
     }
+
+   
 
 
     private void Update()
